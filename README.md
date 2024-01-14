@@ -9,6 +9,6 @@
 
 [![Ahsan Younis Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ahsanyounis)
 
-[![Ahsan Younis Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/ahsanmyounis@gmail.com)
+[![Ahsan Younis Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmyounis@gmail.com)
 
 Feel free to reach out!
